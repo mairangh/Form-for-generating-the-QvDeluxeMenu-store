@@ -1,0 +1,5 @@
+C:\Users\ivanb\OneDrive\Рабочий стол\Программы\publish\GenerateShop.exe
+C:\Users\ivanb\OneDrive\Рабочий стол\Программы\publish\GenerateShop.dll
+C:\Users\ivanb\OneDrive\Рабочий стол\Программы\publish\GenerateShop.deps.json
+C:\Users\ivanb\OneDrive\Рабочий стол\Программы\publish\GenerateShop.runtimeconfig.json
+C:\Users\ivanb\OneDrive\Рабочий стол\Программы\publish\GenerateShop.pdb

@@ -1,0 +1,16 @@
+C:\Users\ivanb\source\repos\GenerateShop\GenerateShop\bin\Debug\net6.0-windows\GenerateShop.exe
+C:\Users\ivanb\source\repos\GenerateShop\GenerateShop\bin\Debug\net6.0-windows\GenerateShop.deps.json
+C:\Users\ivanb\source\repos\GenerateShop\GenerateShop\bin\Debug\net6.0-windows\GenerateShop.runtimeconfig.json
+C:\Users\ivanb\source\repos\GenerateShop\GenerateShop\bin\Debug\net6.0-windows\GenerateShop.dll
+C:\Users\ivanb\source\repos\GenerateShop\GenerateShop\bin\Debug\net6.0-windows\GenerateShop.pdb
+C:\Users\ivanb\source\repos\GenerateShop\GenerateShop\obj\Debug\net6.0-windows\GenerateShop.Form1.resources
+C:\Users\ivanb\source\repos\GenerateShop\GenerateShop\obj\Debug\net6.0-windows\GenerateShop.csproj.GenerateResource.cache
+C:\Users\ivanb\source\repos\GenerateShop\GenerateShop\obj\Debug\net6.0-windows\GenerateShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanb\source\repos\GenerateShop\GenerateShop\obj\Debug\net6.0-windows\GenerateShop.AssemblyInfoInputs.cache
+C:\Users\ivanb\source\repos\GenerateShop\GenerateShop\obj\Debug\net6.0-windows\GenerateShop.AssemblyInfo.cs
+C:\Users\ivanb\source\repos\GenerateShop\GenerateShop\obj\Debug\net6.0-windows\GenerateShop.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\source\repos\GenerateShop\GenerateShop\obj\Debug\net6.0-windows\GenerateShop.dll
+C:\Users\ivanb\source\repos\GenerateShop\GenerateShop\obj\Debug\net6.0-windows\refint\GenerateShop.dll
+C:\Users\ivanb\source\repos\GenerateShop\GenerateShop\obj\Debug\net6.0-windows\GenerateShop.pdb
+C:\Users\ivanb\source\repos\GenerateShop\GenerateShop\obj\Debug\net6.0-windows\GenerateShop.genruntimeconfig.cache
+C:\Users\ivanb\source\repos\GenerateShop\GenerateShop\obj\Debug\net6.0-windows\ref\GenerateShop.dll
